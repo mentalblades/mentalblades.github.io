@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    
+    <title>Mental Blades</title>
+    <meta name="description" content="Profile Page">
+    <meta name="author" content="Jae">
+    
+    <link rel="stylesheet" href="style.css">  
+</head>
+    
+<body>
+
+    <h1>Mental Blades</h1>
+    
+    <p>Refine your mind. Master your time.</p>
+     
+    <script src="scripts/script.js"></script>
+</body>
+
+
+
+</html>
